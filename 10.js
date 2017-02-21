@@ -1,0 +1,1 @@
+webpackJsonp([10,15],{560:function(e,r,t){"use strict";function s(e){return e&&e.__esModule?e:{"default":e}}var a=t(1),n=s(a),u=n["default"].createClass({displayName:"User",render:function(){return n["default"].createElement("h1",null,"User: ",this.props.params.id)}});e.exports=u}});

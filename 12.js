@@ -1,0 +1,1 @@
+webpackJsonp([12,15],{554:function(e,t,n){"use strict";function a(e){return e&&e.__esModule?e:{"default":e}}var r=n(1),u=a(r),l=(n(302),u["default"].createClass({displayName:"PageOne",render:function(){return u["default"].createElement("h2",null,"\u6b22\u8fce\u767b\u5f55\u540e\u53f0\u7ba1\u7406")}}));e.exports=l}});
